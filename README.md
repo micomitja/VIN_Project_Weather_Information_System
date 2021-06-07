@@ -19,7 +19,9 @@ Protokol I2C vključuje uporabo dveh vrstic za pošiljanje in prejemanje podatko
 Ker protokol I2C omogoča, da ima vsaka omogočena naprava svoj edinstven naslov, in ker se tako Master kot Slave naprava izmenjata v eni liniji, lahko vaša plošča Arduino komunicira (po vrsti) s številnimi napravami oz. druge plošče, medtem ko uporabljate samo dva pina mikrokrmilnika
 
 I2C Circuit
+
 ![image](https://user-images.githubusercontent.com/56089916/121073699-2227e980-c7d3-11eb-9ef1-507b01774f05.png)
+
 I2C Schematic
 ![image](https://user-images.githubusercontent.com/56089916/121073708-26ec9d80-c7d3-11eb-951d-15a047835292.png)
 
@@ -43,6 +45,9 @@ Tehnične podrobnosti:
   - Temperatura: -20 do 50 ° C, natančnost ± 2 °
 
 ![image](https://user-images.githubusercontent.com/56089916/121075032-f60d6800-c7d4-11eb-805c-d3d5bbbea716.png)
+
+
+## Videos
 
 https://www.youtube.com/watch?v=u04du5kiCZ0
 
