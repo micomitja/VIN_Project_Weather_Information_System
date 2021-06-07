@@ -68,17 +68,14 @@ https://www.youtube.com/watch?v=u04du5kiCZ0
 
 # Project Schematics:
 
-## Simple connection
-
-https://www.tinkercad.com/things/gJhm8eh1x2B-weather-station-beta-severe-weather-information-system-with-one/editel?sharecode=QnevEMxNUw7wV2FT7WqM0T_lg3cvazd9utaKcMokt8I
+## Simple connection 
+https://www.tinkercad.com/things/gJhm8eh1x2B-weather-station-beta-severe-weather-information-system-with-one/editel?sharecode=ETO8rby8YnhPC1pKZn8wViG2POKvgpQ88V2Zn_p8FfQ
 
 ## implementation with I2C
-
-https://www.tinkercad.com/things/2mpW45a3ZXm-severe-weather-information-system-with-i2c-connection-beta/editel?sharecode=gDINAZSgAZvwWysSITnJy8KqJEPGTGkz8B4buBrYkqI
+https://www.tinkercad.com/things/2mpW45a3ZXm-severe-weather-information-system-master-readerslave-sender/editel?sharecode=My0bnswG5MtlrScEi1Kl48zGzEvXN0rk_vMMWDT7DdM
 
 ## Simple I2C
-
-https://www.tinkercad.com/things/2pJolJm8PTc-i2c/editel?sharecode=67cjlt_nIIe9T2fpBlABt9JPdCSoPiFN-NgsUW5Sc-o
+https://www.tinkercad.com/things/2pJolJm8PTc-i2c/editel?sharecode=1RLWIIR5fa05DZfq_dwC7M04p_WcAvSfdoQNIG_1MDo
 
 ## Arduino Hub of those Sub Projects
 
