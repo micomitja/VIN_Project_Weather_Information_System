@@ -1,4 +1,4 @@
-# Arduino Weather Information System MasterReader/SlaveSender
+# Arduino Weather Information System Master Reader/Slave Sender
 
 ## This severe weather Information system informs us about severe temperature or weather conditions on the place where this system is placed
 
