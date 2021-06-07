@@ -4,6 +4,30 @@
 
 Ta informativni sistem o vremenskih razmerah nas obvešča o hudih vremenskih oz temperaturnih razmerah na kraju, kjer je ta sistem postavljen (obvešča nas z rdečimi in modrimi LED-diodami in zvočnim opozorilom, vse pa je prikazano tudi na LCD zaslonu). zunanji element ima tudi kontrolno LED, ko je zunaj temno, da se vklopi.Če pa ne želimo zvočnih opozoril, lahko vse tudi utišamo z gumbom, ko sveti kontrolna lučka LED, vemo, da je naš sistem utišan in ne bo sprožil alarma, ko pride do hudih vremenskih razmer, tako hudih padcev ali dvigov temperature.
 
+# Component List
+
+| Quantity  | Component  |  
+|---|---|
+| 2  |  Arduino Uno |   
+|   |  LED RGB |   
+|   |   |   
+Quantity	Component
+2	        Arduino Uno 
+1	        LED RGB
+1	        Orange LED
+1	        Yellow LED
+1       	White  LED
+1       	Photoresistor
+1	        LCD 16 x 2
+1	        330 Ω Resistor
+6	        220 Ω Resistor
+2	        200 kΩ Potentiometer
+1	        Piezo
+1	        Temperature Sensor [DHT-11]
+1	        Pushbutton
+1	        10 kΩ Resistor
+
+
 ## Master Reader
 ![image](https://user-images.githubusercontent.com/56089916/121075443-7b911800-c7d5-11eb-8fb1-f7658df8cea3.png)
 ## Slave Sender 
@@ -69,10 +93,10 @@ https://www.youtube.com/watch?v=u04du5kiCZ0
 # Project Schematics:
 
 ## Simple connection 
-https://www.tinkercad.com/things/gJhm8eh1x2B-weather-station-beta-severe-weather-information-system-with-one/editel?sharecode=ETO8rby8YnhPC1pKZn8wViG2POKvgpQ88V2Zn_p8FfQ
+https://www.tinkercad.com/things/gJhm8eh1x2B
 
 ## implementation with I2C
-https://www.tinkercad.com/things/2mpW45a3ZXm-severe-weather-information-system-master-readerslave-sender/editel?sharecode=My0bnswG5MtlrScEi1Kl48zGzEvXN0rk_vMMWDT7DdM
+https://www.tinkercad.com/things/2mpW45a3ZXm
 
 ## Simple I2C
 https://www.tinkercad.com/things/2pJolJm8PTc-i2c/editel?sharecode=1RLWIIR5fa05DZfq_dwC7M04p_WcAvSfdoQNIG_1MDo
