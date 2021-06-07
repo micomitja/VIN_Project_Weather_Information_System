@@ -88,6 +88,13 @@ https://www.youtube.com/watch?v=u04du5kiCZ0
 
 # Project Schematics:
 
+![image](https://user-images.githubusercontent.com/56089916/121078640-80f06180-c7d9-11eb-85fc-de9987cbaccc.png)
+
+![image](https://user-images.githubusercontent.com/56089916/121078668-86e64280-c7d9-11eb-88df-edab435be81c.png)
+
+![image](https://user-images.githubusercontent.com/56089916/121078686-8c438d00-c7d9-11eb-8e23-45209c16226f.png)
+
+
 ## Simple connection 
 https://www.tinkercad.com/things/gJhm8eh1x2B
 
