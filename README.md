@@ -47,7 +47,7 @@ Tehnične podrobnosti:
 ![image](https://user-images.githubusercontent.com/56089916/121075032-f60d6800-c7d4-11eb-805c-d3d5bbbea716.png)
 
 
-## Videos
+## Video
 
 https://www.youtube.com/watch?v=u04du5kiCZ0
 
@@ -76,11 +76,11 @@ https://www.tinkercad.com/things/gJhm8eh1x2B-weather-station-beta-severe-weather
 
 https://www.tinkercad.com/things/2mpW45a3ZXm-severe-weather-information-system-with-i2c-connection-beta/editel?sharecode=gDINAZSgAZvwWysSITnJy8KqJEPGTGkz8B4buBrYkqI
 
-Simple I2C
+## Simple I2C
 
 https://www.tinkercad.com/things/2pJolJm8PTc-i2c/editel?sharecode=67cjlt_nIIe9T2fpBlABt9JPdCSoPiFN-NgsUW5Sc-o
 
-Arduino Hub of those Sub Projects
+## Arduino Hub of those Sub Projects
 
 https://create.arduino.cc/projecthub/micofri/weather-station-beta-severe-weather-information-system-f71aaf?auth_token=e94d5399bfcdd30b5c9e8afebb06c3a4
 
