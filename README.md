@@ -9,23 +9,21 @@ Ta informativni sistem o vremenskih razmerah nas obvešča o hudih vremenskih oz
 | Quantity  | Component  |  
 |---|---|
 | 2  |  Arduino Uno |   
-|   |  LED RGB |   
-|   |   |   
-Quantity	Component
-2	        Arduino Uno 
-1	        LED RGB
-1	        Orange LED
-1	        Yellow LED
-1       	White  LED
-1       	Photoresistor
-1	        LCD 16 x 2
-1	        330 Ω Resistor
-6	        220 Ω Resistor
-2	        200 kΩ Potentiometer
-1	        Piezo
-1	        Temperature Sensor [DHT-11]
-1	        Pushbutton
-1	        10 kΩ Resistor
+| 1 |  LED RGB |   
+|2	  |   Arduino Uno  |
+|1	  |     LED RGB  |
+|1	  |     Orange LED  |
+|1	  |     Yellow LED  |
+|1   |   	White  LED  |
+|1   |   	Photoresistor |
+|1	  |     LCD 16 x 2  |
+|1	  |     330 Ω Resistor  |
+|6	  |     220 Ω Resistor  |
+|2	  |     200 kΩ Potentiometer  |
+|1	  |     Piezo |
+|1	  |     Temperature Sensor [DHT-11] |
+|1	  |     Pushbutton  |
+|1	  |     10 kΩ Resistor  |
 
 
 ## Master Reader
