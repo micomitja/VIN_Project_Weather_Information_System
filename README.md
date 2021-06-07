@@ -110,7 +110,7 @@ https://create.arduino.cc/projecthub/micofri/weather-station-beta-severe-weather
 
 https://create.arduino.cc/projecthub/micofri/severe-weather-information-system-master-reader-slave-sender-ed7d80?auth_token=bbfe363653d89500cff1772e627e41fc
 
-## Other LINKs
+## Other LINKs Code 
 
 https://create.arduino.cc/editor/micofri/e6bb6846-8216-491c-9056-6d1237731178/preview
 
