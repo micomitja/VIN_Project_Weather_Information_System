@@ -8,8 +8,6 @@ Ta informativni sistem o vremenskih razmerah nas obvešča o hudih vremenskih oz
 
 | Quantity  | Component  |  
 |---|---|
-| 2  |  Arduino Uno |   
-| 1 |  LED RGB |   
 |2	  |   Arduino Uno  |
 |1	  |     LED RGB  |
 |1	  |     Orange LED  |
